@@ -1,0 +1,40 @@
+.title {
+    font-family: Calibri, sans-serif;
+    text-align: center;
+}
+
+.title.major {
+    background-color: rgba(255, 255, 255, 0.39);
+}
+
+.title.minor {
+    background-color: rgba(19, 34, 61, 0.493);
+}
+
+* {
+    background-color: rgb(74,129,211);
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-radius: 10px;
+    border: 5px solid rgb(255, 136, 0);
+}
+
+a:link {
+    color: rgb(0, 0, 0);
+}
+
+a:hover {
+    color: brown;
+}
+
+a:visited {
+    color: rgb(75, 50, 3);
+}
+
+a {
+    font-size: 20px;
+}
